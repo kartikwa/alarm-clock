@@ -5,9 +5,9 @@
 }
 
 .clock {
-    display: block;
-
-    padding-top: 6%;
+  display: block;
+    border: 2px solid black;
+    margin: 20%;
 }
 
 h1 {
